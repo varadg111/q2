@@ -1,5 +1,33 @@
 ---
 marp: true
+theme: default
+class: lead
+paginate: true
+backgroundColor: #f4f4f9
+---
+
+# Product Documentation Presentation
+
+**Author:** Varad Gandhi  
+📧 23f2004391@ds.study.iitm.ac.in  
+
+---
+
+# Custom Theme & Styling
+
+This slide uses a custom background color via Marp directives.  
+
+```css
+/* Custom Theme */
+section {
+  font-family: "Segoe UI", sans-serif;
+  color: #222;
+}
+h1 {
+  color: #2e86de;
+}
+---
+marp: true
 theme: custom
 paginate: true
 footer: "© 2025 | 23f2004391@ds.study.iitm.ac.in"
@@ -82,3 +110,4 @@ Used in sorting algorithms like **Merge Sort** and **Quick Sort**.
 **Email:** 23f2004391@ds.study.iitm.ac.in  
 
 Thank you! 🚀
+
